@@ -1,5 +1,3 @@
-# Pull Request Template
-
 ### What type of PR is this? (check all applicable)
 
 - [ ]  Refactor
@@ -49,3 +47,4 @@ Before submitting this pull request, please ensure the following items are check
 ## Reviewers
 
 Request reviewers
+
