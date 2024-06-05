@@ -3,8 +3,9 @@
 - [ ]  Refactor
 - [ ]  Feature
 - [ ]  Bug Fix
-- [ ] Optimization
+- [ ]  Optimization
 - [ ]  Documentation Update
+
 
 ## Overview
 
@@ -14,8 +15,8 @@ Please provide a brief overview of the changes made in this pull request.
 
 List any issues related to this pull request:
 
-- Fixes #[issue_number/link]
-- Closes #[issue_number/link]
+- Fixes #[issue_number/jira link]
+- Closes #[issue_number/jira link]
 
 ## Changes Made
 
@@ -33,7 +34,7 @@ If this pull request introduces visual changes, please attach screenshots below:
 
 ## Additional Context
 
-Add any other context or screenshots about the problem or fix here.
+Add any other context or screenshots about the problem or fix it here.
 
 ## Checklist
 
@@ -43,6 +44,10 @@ Before submitting this pull request, please ensure the following items are check
 - [ ] Code has been formatted according to the project's style guide
 - [ ] Documentation has been added/updated
 - [ ] Any dependent changes have been merged and published
+
+
+
+NB: add 'X' to the checkboxes to tick -> [x] 
 
 ## Reviewers
 
