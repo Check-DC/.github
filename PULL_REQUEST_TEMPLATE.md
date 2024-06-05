@@ -47,7 +47,8 @@ Before submitting this pull request, please ensure the following items are check
 
 
 
-NB: add 'X' to the checkboxes to tick -> [x] 
+NB: add 'X' to the checkboxes to tick ->
+- [x]  ticked
 
 ## Reviewers
 
